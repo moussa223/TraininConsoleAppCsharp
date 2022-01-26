@@ -1,0 +1,8 @@
+{
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "OnionArchConn": "Data Source=localhost;Initial Catalog=WPF1;Integrated Security=True",
+    "IdentityConnection": "Data Source=localhost;Initial Catalog=WPF1;Integrated Security=True"
+
+  }
+}

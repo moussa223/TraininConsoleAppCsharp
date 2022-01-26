@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExoPolymorphisme", "TraininConsoleAppCsharp\ExoPolymorphisme.csproj", "{16908A11-52C6-4793-87E2-1BC66DF16C3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExoGestionStock", "ExoGestionStock\ExoGestionStock.csproj", "{5C0F958E-90E6-420F-9C87-1A547F178A2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExoClassesAbstraites", "ExoClassesAbstraites\ExoClassesAbstraites.csproj", "{15807707-55F4-4E37-9B00-AE1B4D07237D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExoJeuDeCouleursFormulaire4WPF", "ExoJeuDeCouleursFormulaire4\ExoJeuDeCouleursFormulaire4WPF.csproj", "{46F6B95F-6D5D-4203-863C-64E9122452B3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExoDeplacerElementsEntreDeuxListeBoxWPF", "ExoDeplacerElementsEntreDeuxListeBoxWPF\ExoDeplacerElementsEntreDeuxListeBoxWPF.csproj", "{97E883B6-EA2A-43CA-97B0-52AFF632F6EE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevApp", "DevApp\DevApp.csproj", "{CD932436-A72F-49E0-BF05-FCA7E3E232E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cercle", "Cercle\Cercle.csproj", "{9EA7F341-512E-4CCE-9117-083FD555ABFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16908A11-52C6-4793-87E2-1BC66DF16C3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16908A11-52C6-4793-87E2-1BC66DF16C3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16908A11-52C6-4793-87E2-1BC66DF16C3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16908A11-52C6-4793-87E2-1BC66DF16C3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C0F958E-90E6-420F-9C87-1A547F178A2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C0F958E-90E6-420F-9C87-1A547F178A2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C0F958E-90E6-420F-9C87-1A547F178A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C0F958E-90E6-420F-9C87-1A547F178A2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15807707-55F4-4E37-9B00-AE1B4D07237D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15807707-55F4-4E37-9B00-AE1B4D07237D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15807707-55F4-4E37-9B00-AE1B4D07237D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15807707-55F4-4E37-9B00-AE1B4D07237D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46F6B95F-6D5D-4203-863C-64E9122452B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46F6B95F-6D5D-4203-863C-64E9122452B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46F6B95F-6D5D-4203-863C-64E9122452B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46F6B95F-6D5D-4203-863C-64E9122452B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97E883B6-EA2A-43CA-97B0-52AFF632F6EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97E883B6-EA2A-43CA-97B0-52AFF632F6EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97E883B6-EA2A-43CA-97B0-52AFF632F6EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97E883B6-EA2A-43CA-97B0-52AFF632F6EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD932436-A72F-49E0-BF05-FCA7E3E232E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD932436-A72F-49E0-BF05-FCA7E3E232E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD932436-A72F-49E0-BF05-FCA7E3E232E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD932436-A72F-49E0-BF05-FCA7E3E232E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EA7F341-512E-4CCE-9117-083FD555ABFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EA7F341-512E-4CCE-9117-083FD555ABFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EA7F341-512E-4CCE-9117-083FD555ABFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EA7F341-512E-4CCE-9117-083FD555ABFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1E6C25A-106E-43AD-BC90-49FAFF15B653}
+	EndGlobalSection
+EndGlobal
